@@ -1,2 +1,2 @@
-# blackjack
-Simple console blackjack game
+# Blackjack
+Simple console blackjack game written in C++
